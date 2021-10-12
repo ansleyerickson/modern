@@ -1,0 +1,75 @@
+title: Documenting The Modern School
+subtitle:
+author:
+  name:
+  email: harlemeducationhistory@tc.columbia.edu
+description:
+  Mildred L. Johnson and her colleagues led The Modern School, an independent Black school in Harlem, from 1934 to 1998. This site documents their work and the memories of members of The Modern School community.
+baseurl: "/modern"
+
+# --------------------------------------------------------------
+# COLLECTION SETTINGS
+# --------------------------------------------------------------
+# Wax leverages Jekyll collections for much of its
+# functionality, therefor some of the keys below are from
+# Jekyll while others are Wax-specific.
+# For more info, refer to:
+# ~> https://jekyllrb.com/docs/collections/
+
+collections:
+  exhibits:
+    output: true
+  tms_doc_mock: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "tms_doc_mock_item" # the layout for the pages to use
+    metadata:
+      source: "tms_doc_mock.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/tms_doc_mock" # path to the directory of images within `_data`
+
+# --------------------------------------------------------------
+# SEARCH INDEX SETTINGS
+# --------------------------------------------------------------
+# You can create multiple search indexes below (though only one is
+# recommended!) by specifying
+# an `index` file to write it to and some `collections` for it to index
+# and running `$ bundle exec rake wax:search` .
+
+search:
+  main:
+    index: "/search/index.json" # file the index will get written to
+    collections:
+      tms_doc_mock:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - _date
+          - contributor
+          - names
+          - _tags
+          - description
+
+# --------------------------------------------------------------
+# SITE MENU SETTINGS
+# --------------------------------------------------------------
+# Each menu item needs a `label` (whats shown), and a `link`
+# (where it goes). An item can optionally have a dropdown
+# submenu via `sub`.
+
+menu:
+  - label: "Exhibits"
+    sub:
+      - label: "Parallax Images"
+        link: "/exhibits/parallax/"
+      - label: "Image References"
+        link: "/exhibits/references/"
+      - label: "Subset Collection"
+        link: "/exhibits/subset/"
+  - label: "Browse"
+    link: "/collection/"
+  - label: "Search"
+    link: "/search/"
+  - label: "How To"
+    link: "/learning/"
+  - label: "About"
+    link: "/about/"

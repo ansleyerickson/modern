@@ -1,0 +1,106 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/wright031/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "wright031",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/wright031.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wright031.json",
+          "label": "Page 1",
+          "width": 5100,
+          "height": 6600,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wright031.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 5100,
+                "height": 6600
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wright031.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wright031_wright032.json",
+          "label": "Page 2",
+          "width": 5100,
+          "height": 6600,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031_wright032/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wright031_wright032.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031_wright032/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031_wright032",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 5100,
+                "height": 6600
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wright031_wright032.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wright031_wright033.json",
+          "label": "Page 3",
+          "width": 5100,
+          "height": 6600,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031_wright033/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wright031_wright033.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031_wright033/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031_wright033",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 5100,
+                "height": 6600
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wright031_wright033.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright031/full/1140,/0/default.jpg"
+}
