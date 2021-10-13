@@ -15,8 +15,8 @@ _tags: Report card, Curriculum, Quality Education, Discipline
 names: Elnora B. Sellers
 notes:
 order: '6'
-layout: tms_doc_mock_item
-collection: tms_doc_mock
+layout: tmsdocmock_item
+collection: tmsdocmock
 thumbnail: "/img/derivatives/iiif/images/wright025/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/wright025/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/wright025/manifest.json"

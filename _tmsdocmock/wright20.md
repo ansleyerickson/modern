@@ -15,8 +15,8 @@ _tags: 'Ceremony, Graduation, Programme, School as Community, Arts, '
 names:
 notes:
 order: '4'
-layout: tms_doc_mock_item
-collection: tms_doc_mock
+layout: tmsdocmock_item
+collection: tmsdocmock
 thumbnail: "/img/derivatives/iiif/images/wright20_wright020/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/wright20_wright020/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/wright20/manifest.json"

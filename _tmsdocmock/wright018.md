@@ -25,8 +25,8 @@ notes: 'Speech written out: My Speech/ Modern School/ Tuesday June 16, 1959/ Gra
   what we learn, and to apply- what we know." This symbol, this candle of knowledge
   shall ever be the talisman to light our way.'
 order: '2'
-layout: tms_doc_mock_item
-collection: tms_doc_mock
+layout: tmsdocmock_item
+collection: tmsdocmock
 thumbnail: "/img/derivatives/iiif/images/wright018/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/wright018/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/wright018/manifest.json"

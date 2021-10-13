@@ -3,9 +3,9 @@ layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/tms_doc_mock.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/tmsdocmock.json",
   "@type": "sc:Collection",
-  "label": "tms_doc_mock",
+  "label": "tmsdocmock",
   "manifests": [
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/wright026/manifest.json",

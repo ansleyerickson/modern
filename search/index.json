@@ -9,10 +9,10 @@ layout: none
     "contributor": "Liv Wright ",
     "_tags": "Audubon Ballroom Ceremony, Graduation",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright019/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright019",
+    "permalink": "/tmsdocmock/wright019",
     "lunr_id": 0
   },
   {
@@ -22,10 +22,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Audubon Ball, Festivites, The Arts",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb001/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb001",
+    "permalink": "/tmsdocmock/cb001",
     "lunr_id": 1
   },
   {
@@ -35,10 +35,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Audubon Ball, Festivites, The Arts",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb005/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb005",
+    "permalink": "/tmsdocmock/cb005",
     "lunr_id": 2
   },
   {
@@ -48,10 +48,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Audubon Ball, Festivites, The Arts",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb004/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb004",
+    "permalink": "/tmsdocmock/cb004",
     "lunr_id": 3
   },
   {
@@ -61,10 +61,10 @@ layout: none
     "contributor": "Liv Wright ",
     "_tags": "Ceremony, Graduation, Student Speech ",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright018/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright018",
+    "permalink": "/tmsdocmock/wright018",
     "lunr_id": 4
   },
   {
@@ -74,10 +74,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Black girlhood",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb010/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb010",
+    "permalink": "/tmsdocmock/cb010",
     "lunr_id": 5
   },
   {
@@ -87,10 +87,10 @@ layout: none
     "contributor": "Liv Wright ",
     "_tags": "Curriculum, Quality Education, Report card, Discipline",
     "names": "Elnora B. Sellers, Mildred L. Johnson",
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright023/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright023",
+    "permalink": "/tmsdocmock/wright023",
     "lunr_id": 6
   },
   {
@@ -100,10 +100,10 @@ layout: none
     "contributor": "Liv Wright ",
     "_tags": "Black History, Poetry, Privilege, Progressive Curriculum, Quality Education, School as Community, School newspaper, Student Writing, The Arts, Camp Dunroven",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright026_Wright030/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright026",
+    "permalink": "/tmsdocmock/wright026",
     "lunr_id": 7
   },
   {
@@ -113,10 +113,10 @@ layout: none
     "contributor": "Liv Wright ",
     "_tags": "Legacy Of The Modern School, Memory, Outreach, Mildred L. Johnson",
     "names": "Mildred L. Johnson",
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright005/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright005",
+    "permalink": "/tmsdocmock/wright005",
     "lunr_id": 8
   },
   {
@@ -126,10 +126,10 @@ layout: none
     "contributor": "Liv Wright ",
     "_tags": "Love for Learning, Privilege, Quality Education, Exposure",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright031/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright031",
+    "permalink": "/tmsdocmock/wright031",
     "lunr_id": 9
   },
   {
@@ -139,10 +139,10 @@ layout: none
     "contributor": "Liv Wright ",
     "_tags": "Report card, Curriculum, Quality Education, Discipline",
     "names": "Elnora B. Sellers",
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright025/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright025",
+    "permalink": "/tmsdocmock/wright025",
     "lunr_id": 10
   },
   {
@@ -152,10 +152,10 @@ layout: none
     "contributor": "Liv Wright ",
     "_tags": "Ceremony, Graduation, Programme, School as Community",
     "names": "Elnora B. Sellers, Mildred L. Johnson",
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright001/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright001",
+    "permalink": "/tmsdocmock/wright001",
     "lunr_id": 11
   },
   {
@@ -165,10 +165,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Community,  Black history, Harlem, Playground ",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb009/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb009",
+    "permalink": "/tmsdocmock/cb009",
     "lunr_id": 12
   },
   {
@@ -178,10 +178,10 @@ layout: none
     "contributor": "Liv Wright",
     "_tags": "Black Culture, High Expectations, School Structure, Curriculum, Discipline",
     "names": "Mildred L. Johnson, Cherilyn \"Liv\" Wright, Mildred L. Johnson, ",
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright034/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright034",
+    "permalink": "/tmsdocmock/wright034",
     "lunr_id": 13
   },
   {
@@ -191,10 +191,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Ceremony, School as Community, Success",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb008/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb008",
+    "permalink": "/tmsdocmock/cb008",
     "lunr_id": 14
   },
   {
@@ -204,10 +204,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Black Teacher, Class Photo, Co-Educational Classroom",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb007/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb007",
+    "permalink": "/tmsdocmock/cb007",
     "lunr_id": 15
   },
   {
@@ -217,10 +217,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Audubon Ball, Festivites, The Arts",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb003/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb003",
+    "permalink": "/tmsdocmock/cb003",
     "lunr_id": 16
   },
   {
@@ -230,10 +230,10 @@ layout: none
     "contributor": "Liv Wright ",
     "_tags": "Ceremony, Graduation, Programme, School as Community, Arts, ",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/wright20_wright020/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/wright20",
+    "permalink": "/tmsdocmock/wright20",
     "lunr_id": 17
   },
   {
@@ -243,10 +243,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Ceremony",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb002/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb002",
+    "permalink": "/tmsdocmock/cb002",
     "lunr_id": 18
   },
   {
@@ -256,10 +256,10 @@ layout: none
     "contributor": "Cami Bethea",
     "_tags": "Audubon Ball, Festivites, The Arts ",
     "names": null,
-    "collection": "tms_doc_mock",
+    "collection": "tmsdocmock",
     "thumbnail": "/img/derivatives/iiif/images/cb006/full/250,/0/default.jpg",
     "content": " ",
-    "permalink": "/tms_doc_mock/cb006",
+    "permalink": "/tmsdocmock/cb006",
     "lunr_id": 19
   }
 ]

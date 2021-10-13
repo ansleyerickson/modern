@@ -16,8 +16,8 @@ _tags: Ceremony, Graduation, Programme, School as Community
 names: Elnora B. Sellers, Mildred L. Johnson
 notes:
 order: '0'
-layout: tms_doc_mock_item
-collection: tms_doc_mock
+layout: tmsdocmock_item
+collection: tmsdocmock
 thumbnail: "/img/derivatives/iiif/images/wright001/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/wright001/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/wright001/manifest.json"

@@ -1,5 +1,5 @@
 title: Documenting The Modern School
-subtitle:
+subtitle: Independent Black education in Harlem, 1934-1998
 author:
   name:
   email: harlemeducationhistory@tc.columbia.edu
@@ -20,13 +20,13 @@ baseurl: "/modern"
 collections:
   exhibits:
     output: true
-  tms_doc_mock: # name of collection
+  tmsdocmock: # name of collection
     output: true # makes sure pages are output as html files
-    layout: "tms_doc_mock_item" # the layout for the pages to use
+    layout: "tmsdocmock_item" # the layout for the pages to use
     metadata:
-      source: "tms_doc_mock.csv" # path to the metadata file within `_data`
+      source: "tmsdocmock.csv" # path to the metadata file within `_data`
     images:
-      source: "raw_images/tms_doc_mock" # path to the directory of images within `_data`
+      source: "raw_images/tmsdocmock" # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -40,7 +40,7 @@ search:
   main:
     index: "/search/index.json" # file the index will get written to
     collections:
-      tms_doc_mock:
+      tmsdocmock:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
           - label

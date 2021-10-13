@@ -14,8 +14,8 @@ _tags: Black Culture, High Expectations, School Structure, Curriculum, Disciplin
 names: 'Mildred L. Johnson, Cherilyn "Liv" Wright, Mildred L. Johnson, '
 notes:
 order: '9'
-layout: tms_doc_mock_item
-collection: tms_doc_mock
+layout: tmsdocmock_item
+collection: tmsdocmock
 thumbnail: "/img/derivatives/iiif/images/wright034/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/wright034/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/wright034/manifest.json"
