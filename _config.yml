@@ -74,5 +74,5 @@ menu:
     link: "/search/"
   - label: "About"
     link: "/about/"
-  - label: "Resources"
-    link: "/learning/"
+  - label: "More"
+    link: "/more/"
