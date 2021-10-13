@@ -58,6 +58,8 @@ search:
 # submenu via `sub`.
 
 menu:
+  - label: "Browse"
+    link: "/collection/"
   - label: "Exhibits"
     sub:
       - label: "Flowers Essay"
@@ -68,8 +70,6 @@ menu:
         link: "/exhibits/taylor/"
       - label: "Erickson Essay"
         link: "/exhibits/erickson/"
-  - label: "Browse"
-    link: "/collection/"
   - label: "Search"
     link: "/search/"
   - label: "About"
