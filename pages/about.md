@@ -3,12 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-_Facets_ is a theme for Wax sites that allows users to browse through a collection using facets, or filters. When we are browsing through a collection of cultural artifacts, we often want to reduce the number of objects in front of us to a small collection that fits a very specific criteria. Faceted browsing is a form of browsing that allows you to do just that using filters you select. In _Facets_ this can be achieved using drop-down menus where you can select the categories you want to browse by.
-
-Besides the ability to do faceted browsing, _Facets_ also allows creators to extract any subcollection that can be filtered by category and use it on any page of the site. We hope this will be useful in the creation of exhibits that focus on particular sub-collections or selections.
-
----
+THE TEXT BELOW WILL BE REPLACED WITH WHAT WE WANT TO SAY ABOUT OUR PROJECT/TEAM
 
 ## Credits
 
