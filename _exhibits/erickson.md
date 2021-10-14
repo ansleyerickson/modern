@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Essay from Ansley Erickson'
-author: Ansley T. Erickson , PhD
+author: Ansley T. Erickson
 publish_date: December 2021
 permalink: /exhibits/erickson/
 ---
