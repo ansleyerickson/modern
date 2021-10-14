@@ -10,4 +10,12 @@ layout: home
 
 {% include parallax_image.html collection='tmsdocmock' pid='wright002' y='50%' %}
 
-INTRO TEXT HERE 
+Browse the digital collection
+
+{% include collection_gallery.html
+collection='tmsdocmock' facet_by='type' num_column=2 %}
+
+Browse the oral histories -- to be added soon
+
+{% include collection_gallery.html
+collection='tmsoh' facet_by='type' num_column=2 %}
