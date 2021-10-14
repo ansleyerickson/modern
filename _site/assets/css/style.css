@@ -2211,15 +2211,15 @@ main { min-height: calc(100vh - 120px); padding: 2rem; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Open Sans Light", "Verdana", "sans-serif"; }
 
-a { color: #801515; }
+a { color: #296799; }
 
-a:hover { color: #d49a6a; text-decoration: none; }
+a:hover { color: #ffffff; text-decoration: none; }
 
-a.action-button { background-color: #801515; color: #fff; margin: 1rem; }
+a.action-button { background-color: #296799; color: #f0f4ff; margin: 1rem; }
 
-a.action-button:hover { background-color: #022440; color: #ffd1aa; }
+a.action-button:hover { background-color: #033e6e; color: #ffd1aa; }
 
-.banner { background-color: #022440; color: #d49a6a; padding: 10px 2rem; font-family: "Open Sans Light", "Verdana", "sans-serif"; font-size: 1.2rem; }
+.banner { background-color: #033e6e; color: #ffffff; padding: 10px 2rem; font-family: "Open Sans Light", "Verdana", "sans-serif"; font-size: 1.2rem; }
 
 .navbar-brand { font-size: 1.4rem; }
 
@@ -2227,9 +2227,9 @@ a.action-button:hover { background-color: #022440; color: #ffd1aa; }
 
 .banner a { color: #ffd1aa; }
 
-.banner a:hover { color: #fff; }
+.banner a:hover { color: #f0f4ff; }
 
-.banner .dropdown-item { color: #022440; }
+.banner .dropdown-item { color: #033e6e; }
 
 .banner .dropdown-item:hover { color: #ffd1aa; }
 
@@ -2245,7 +2245,7 @@ a.action-button:hover { background-color: #022440; color: #ffd1aa; }
 
 .search-block #search { border-style: groove; border-width: 2px; }
 
-.search-block #search:focus { box-shadow: none; border-color: #801515; }
+.search-block #search:focus { box-shadow: none; border-color: #296799; }
 
 .search-block #results { margin: 0; }
 
@@ -2257,7 +2257,7 @@ a.action-button:hover { background-color: #022440; color: #ffd1aa; }
 
 .search-block #results .result a p { margin: 0 !important; padding: 0; }
 
-.search-block #results .result a p .title { color: #801515; }
+.search-block #results .result a p .title { color: #296799; }
 
 .search-block #results .result:hover { background-color: #f7e4ef; }
 
@@ -2279,11 +2279,11 @@ footer { height: 10vh; padding: 0.5rem; }
 
 .wax-parallax .parallax-image { background-color: #f7e4ef; width: 100%; height: 350px; max-height: 55vh; margin: 0; background-attachment: fixed; background-size: cover; }
 
-.wax-parallax .parallax-caption { margin: 0 auto; width: 100%; background-color: #801515; padding: 1rem; }
+.wax-parallax .parallax-caption { margin: 0 auto; width: 100%; background-color: #296799; padding: 1rem; }
 
 .wax-parallax .parallax-caption a { color: #f7e4ef; font-weight: 700; text-decoration: none; }
 
-.wax-parallax .parallax-caption a:hover { text-decoration: underline; color: #022440; }
+.wax-parallax .parallax-caption a:hover { text-decoration: underline; color: #033e6e; }
 
 .navbar-toggler-icon { color: #d49a6a; font-size: 1.8rem; height: 1.2em; }
 
