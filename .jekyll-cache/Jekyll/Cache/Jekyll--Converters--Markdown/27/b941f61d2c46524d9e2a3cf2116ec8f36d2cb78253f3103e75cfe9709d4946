@@ -1,0 +1,24 @@
+I"><p>THE TEXT BELOW WILL BE REPLACED WITH WHAT WE WANT TO SAY ABOUT OUR PROJECT/TEAM</p>
+
+<h2 id="credits">Credits</h2>
+
+<p><em>Facets</em> is the team work of Angela Zoss and Alex Gil. During the lockdown, they met religiously for two hours every week. They finally met in real life once the project was almost complete. <em>Facets</em> builds on the work of Marii Nyröp, and the cheerful encouragement of the Wax community which gathers on <a href="https://code4lib.slack.com/archives/C01DKQ44GE4">a channel on the Code4Lib Slack</a>.</p>
+
+<h3 id="angela-zoss">Angela Zoss</h3>
+
+<p>Angela is the <a href="https://library.duke.edu/about/directory/staff/angela.zoss">Assessment &amp; Data Visualization Analyst</a> in the
+<a href="https://library.duke.edu/about/depts/assessment-user-experience">Assessment &amp; User Experience Department</a> in the
+<a href="https://library.duke.edu/">Duke University Libraries</a>. She has many years of experience
+in teaching and training, predominantly focusing on teaching data visualization to
+university students, faculty, and staff. She is also active in several open
+source development projects, including <a href="https://github.com/folio-org/">FOLIO</a> and
+<a href="https://github.com/minicomp/wax">Wax</a>.</p>
+
+<h3 id="alex-gil">Alex Gil</h3>
+
+<p>Alex Gil is the Digital Scholarship Librarian at Columbia University, where he collaborates with faculty, students and library colleagues in humanities research, pedagogy and knowledge production that involves the use of advanced computation, digital media design, and network technologies. He is the lead coordinator for the <a href="https://studio.cul.columbia.edu/">Butler Library Studio</a> at Columbia University Libraries, co-host of <a href="https://www.twitch.tv/culstudio">Studio Remote</a>, and co-founder of Columbia’s <a href="http://xpmethod.columbia.edu/">Group for Experimental Methods in Humanistic Research</a>.</p>
+
+<h3 id="wax">Wax</h3>
+
+<p><a href="https://minicomp.github.io/wax/">Wax</a> is a minimal computing (<a href="https://github.com/minicomp">minicomp</a>) framework for the creation of static web collections and exhibits led by <a href="http://marii.info/">Marii Nyröp</a>. The project is currently maintained by Marii Nyröp at New York University and <a href="https://github.com/elotroalex">Alex Gil</a> at Columbia University Libraries. Wax depends on <a href="https://jekyllrb.com">Jekyll</a>, the static site generator, and a host of other open source libraries and frameworks including <a href="http://iiif.io">IIIF</a>, <a href="https://openseadragon.github.io/">OpenSeaDragon</a>, <a href="https://ruby.github.io/rake/">Rake</a>, and <a href="http://elasticlunr.com/">ElasticLunr</a>. Wax builds upon work by <a href="https://github.com/pbinkley">Peter Binkley</a>, <a href="https://github.com/workergnome">David Newbury</a>, and others.</p>
+:ET
