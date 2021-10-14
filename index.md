@@ -8,14 +8,14 @@
 layout: home
 ---
 
-{% include parallax_image.html collection='tmsdocmock' pid='wright002' y='50%' %}
+{% include parallax_image.html collection='tmsdocmock' pid='wright023' y='50%' %}
 
 Browse the digital collection
 
-{% include collection_gallery.html
-collection='tmsdocmock' facet_by='type' num_column=2 %}
+{% include facet_gallery.html
+collection='tmsdocmock' facet_by='type' num_column=6 %}
 
 Browse the oral histories -- to be added soon
 
-{% include collection_gallery.html
-collection='tmsoh' facet_by='type' num_column=2 %}
+{% include facet_gallery.html
+collection='tmsoh' facet_by='type' num_column=6 %}
