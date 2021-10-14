@@ -8,7 +8,7 @@
 layout: home
 ---
 
-{% include parallax_image.html collection='tmsdocmock' pid='wright023' y='50%' %}
+{% include parallax_image.html collection='tmsdocmock' pid='cb007' y='50%' %}
 
 Browse the digital collection
 
