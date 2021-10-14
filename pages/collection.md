@@ -6,6 +6,6 @@ permalink: /collection/
 ---
 
 
-{% include facet_gallery.html collection='tmsdocmock' facet_by='type'  num_column=2 %}
+{% include facet_gallery.html collection='tmsdocmock' facet_by='type'  num_column=4 %}
 
 This page will have one gallery of documents/photos and one gallery of oral histories.
