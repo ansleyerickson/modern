@@ -1,6 +1,6 @@
 ---
 layout: page
-title: more
+title: Learn more about The Modern School
 permalink: /more/
 ---
-A BIBLIOGRAPHY OF RELATED RESOURCES
+Bibliography of related resources to come. 
