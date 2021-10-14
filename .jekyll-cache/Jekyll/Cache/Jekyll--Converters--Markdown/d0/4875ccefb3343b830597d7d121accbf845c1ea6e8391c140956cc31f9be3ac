@@ -174,9 +174,9 @@
 
         <div class="gallery-item-facets photograph col-xl-3 p-1">
           <div class="card thumbnail-card">
-            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb007/full/250,/0/default.jpg" alt="Photograph of anual class photo of Grade 5" />
+            <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb007/full/250,/0/default.jpg" alt="Annual class photo, grade 5" />
             <div class="card-body">
-              <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb007.html"><h3 class="card-title">Photograph of anual class photo of Grade 5</h3></a>
+              <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb007.html"><h3 class="card-title">Annual class photo, grade 5</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
               <p class="card-text small">
