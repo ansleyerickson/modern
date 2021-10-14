@@ -13,9 +13,9 @@ layout: home
 Browse the digital collection
 
 {% include facet_gallery.html
-collection='tmsdocmock' facet_by='type' num_column=6 %}
+collection='tmsdocmock' facet_by='type' num_column=4 %}
 
 Browse the oral histories -- to be added soon
 
 {% include facet_gallery.html
-collection='tmsoh' facet_by='type' num_column=6 %}
+collection='tmsoh' facet_by='type' num_column=4 %}
