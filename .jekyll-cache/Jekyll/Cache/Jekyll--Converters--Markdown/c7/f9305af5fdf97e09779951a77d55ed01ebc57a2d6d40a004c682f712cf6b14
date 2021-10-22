@@ -1,4 +1,4 @@
-I"¢^<div class="wax-parallax full-width container-fluid inline-parallax">
+I"{a<div class="wax-parallax full-width container-fluid inline-parallax">
   <div class="parallax-image" style="background-image: url('https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb007/full/1140,/0/default.jpg');
   background-position: 0% 50%;"></div>
   
@@ -69,6 +69,23 @@
     </div>
   </fieldset>
   
+  <fieldset id="format-set" class="card m-1 facet-card">
+    <div class="card-header facet-header">
+      <a class="facet-bn" data-toggle="collapse" href="#format-collapse" role="button" aria-expanded="false" aria-controls="format-collapse">
+        <legend>
+          format
+          <span class="facets-chevron facets-chevron-bottom float-right ml-2" aria-hidden="true"></span>
+        </legend>
+      </a>
+      
+    </div>
+    <div class="collapse" id="format-collapse">
+      <div class="card-body">
+        
+      </div>
+    </div>
+  </fieldset>
+  
 </form>
 
 <!--
@@ -92,10 +109,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb001.html"><h3 class="card-title">Photograph of a Christmas Festival at the Audobon Ballroom </h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1964-1971.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -109,10 +126,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb002.html"><h3 class="card-title">Photograph of ceremony at The Modern School</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1964-1971.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -126,10 +143,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb003.html"><h3 class="card-title">Photograph of children during the Christmas Festival</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1964-1971.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -143,10 +160,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb004.html"><h3 class="card-title">Photograph of class of young children performing on stage with teacher</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1964-1971.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -160,10 +177,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb005.html"><h3 class="card-title">Photograph of end of Christmas performance</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1964-1971.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -177,10 +194,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb006.html"><h3 class="card-title">Photograph of numerous student performers during a Christmas show</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1964-1971.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -194,10 +211,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb007.html"><h3 class="card-title">Annual class photo, grade 5</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1970.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -211,10 +228,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb008.html"><h3 class="card-title">Photograph of a graduation</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1964-1971.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -228,10 +245,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb009.html"><h3 class="card-title">Photograph of Dolares WIlliams and five students</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1964-1971.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -245,10 +262,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/cb010.html"><h3 class="card-title">Photograph of a girl at her desk in front of a mural</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 1964-1971.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -266,10 +283,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright001.html"><h3 class="card-title">"The Modern School Graduation"</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 9-Jun-92.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -283,10 +300,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright005.html"><h3 class="card-title">The Modern School Brochure</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 Spring 1993.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -304,10 +321,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright018.html"><h3 class="card-title">"My Speech"</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 16-Jun-59.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -321,10 +338,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright019.html"><h3 class="card-title">The Modern School Graduation Invitation</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 12-Jun-62.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -338,10 +355,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright023.html"><h3 class="card-title">The Modern School Report Card</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 September 1960- June 1961.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -355,10 +372,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright025.html"><h3 class="card-title">The Modern School Report Card</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 September 18, 1961- January 31, 1962.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -376,10 +393,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright026.html"><h3 class="card-title">"The Modern Scribe February 1957"</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 Feb-57.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -397,10 +414,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright031.html"><h3 class="card-title">"Citywide Spelling Championship"</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 4/27/61.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -414,10 +431,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright034.html"><h3 class="card-title">The Modern School report card [blank]</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 .
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -435,10 +452,10 @@
               <a href="https://ansleyerickson.github.io/modern/tmsdocmock/wright20.html"><h3 class="card-title">"The Modern School Graduation"</h3></a>
               <!-- remove default text below or replace with a description from
                 the item record (e.g., ) -->
-              <p class="card-text small">
+              <!-- <p class="card-text small">
                 This is a  from  dating to
                 12-Jun-62.
-              </p>
+              </p> -->
             </div>
           </div>
         </div>
@@ -451,7 +468,7 @@
 <script type="text/javascript">
   $( document ).ready(function() {
 
-          console.log(["type"]) // liquid array of one or more fields for facetting
+          console.log(["type","format"]) // liquid array of one or more fields for facetting
 
           // This JavaScript controls the expanding and contracting facet headers.
           // Additional JS for this page in assets/js/facets.js
@@ -460,7 +477,7 @@
             // this selector might return multiple elements
             $(this).children('legend').children('.facets-chevron').toggleClass("facets-chevron-bottom facets-chevron-top");
           });
-        
+
 
   });
 </script>
@@ -525,7 +542,7 @@
             // this selector might return multiple elements
             $(this).children('legend').children('.facets-chevron').toggleClass("facets-chevron-bottom facets-chevron-top");
           });
-        
+
 
   });
 </script>

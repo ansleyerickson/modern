@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Browse the collection
 
 {% include facet_gallery.html
-collection='tmsdocmock' facet_by='type' num_column=4 %}
+collection='tmsdocmock' facet_by='type|format' num_column=4 %}
 
 
 ### Browse the oral histories
