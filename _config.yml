@@ -20,14 +20,20 @@ baseurl: "/modern"
 collections:
   exhibits:
     output: true
-  tmsdocmock: # name of collection
+  tmsdoc: # name of collection
     output: true # makes sure pages are output as html files
     layout: "tmsdoc_item" # the layout for the pages to use
     metadata:
       source: "tmsdoc.csv" # path to the metadata file within `_data`
     images:
       source: "raw_images/tmsdoc" # path to the directory of images within `_data`
-
+  tmsphoto: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "tmsdoc_item" # the layout for the pages to use
+    metadata:
+      source: "tmsphoto.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/tmsphoto" # path to the directory of images within `_data`
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
 # --------------------------------------------------------------
