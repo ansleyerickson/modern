@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wright001_wright002.json",
+  "label": "Page 2",
+  "width": 5100,
+  "height": 6600,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright001_wright002/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/wright001_wright002.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright001_wright002/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/wright001_wright002",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 5100,
+        "height": 6600
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/wright001_wright002.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
