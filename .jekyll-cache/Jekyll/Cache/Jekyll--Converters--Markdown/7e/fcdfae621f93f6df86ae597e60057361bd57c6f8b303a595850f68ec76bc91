@@ -1,0 +1,64 @@
+I"
+<!--
+  If there are one or more facet_by field names, build a form at the top of the
+  page where each variable gets a set of checkboxes corresponding to
+  all of the possible values of that field.
+-->
+
+<form class="row" id="facets">
+  
+  <fieldset id="type-set" class="card m-1 facet-card">
+    <div class="card-header facet-header">
+      <a class="facet-bn" data-toggle="collapse" href="#type-collapse" role="button" aria-expanded="false" aria-controls="type-collapse">
+        <legend>
+          type
+          <span class="facets-chevron facets-chevron-bottom float-right ml-2" aria-hidden="true"></span>
+        </legend>
+      </a>
+      
+    </div>
+    <div class="collapse" id="type-collapse">
+      <div class="card-body">
+        
+      </div>
+    </div>
+  </fieldset>
+  
+</form>
+
+<!--
+  Build the gallery by iterating through items in the collection. If there are
+  facets specified, fine the items' values for those fields and add them as
+  classes to the gallery-item object. The classes are used by JavaScript
+  that reacts to changes to the checkbox filters.
+-->
+
+<div id="wax-gallery-tmsdocmock-container" class="wax-gallery-container full-width">
+  <div class="wax-inline-container">
+    <div id="wax-gallery-tmsdocmock" class="wax-gallery">
+      <div class="row">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $( document ).ready(function() {
+
+          console.log(["type"]) // liquid array of one or more fields for facetting
+
+          // This JavaScript controls the expanding and contracting facet headers.
+          // Additional JS for this page in assets/js/facets.js
+          $('.facet-bn[aria-expanded]').click(function(event){
+            $(this).parent().parent().toggleClass("active");
+            // this selector might return multiple elements
+            $(this).children('legend').children('.facets-chevron').toggleClass("facets-chevron-bottom facets-chevron-top");
+          });
+
+
+  });
+</script>
+
+<p>This page will have one gallery of documents/photos and one gallery of oral histories.</p>
+:ET
