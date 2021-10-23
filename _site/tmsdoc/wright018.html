@@ -95,50 +95,137 @@
       <div class="wrapper">
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
-        <div class='exhibit-meta'>
-  <h1 class='exhibit-title'>Essay from Ansley Erickson</h1>
-  <h3 class='exhibit-author'>by Ansley T. Erickson</h3>
-  <p class='exhibit-date' >Published on
-    <time datetime='2021-12-01T00:00:00-05:00'>
-    Wednesday, December 01, 2021
-    </time>
-  </p>
+        
+
+
+<div class="row">
+  <div class="pagination mx-auto">
+    <div class='pagination-link' id='prevlink'><a href='https://ansleyerickson.github.io/modern/tmsdoc/wright005.html' >&#9668;</a></div>
+    <div class='pagination-link' id='nextlink'><a href='https://ansleyerickson.github.io/modern/tmsdoc/wright019.html' >&#9658;</a></div>  </div>
 </div>
 
-<p>Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.</p>
 
-<p>Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.</p>
+<div class='row card thumbnail-card'>
 
-<div class="inline-image-reference">
-  <a href="https://ansleyerickson.github.io/modern/tmsdoc/wright001.html">
-    <img src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright001/full/1140,/0/default.jpg" alt="The Modern School Graduation" width="100%" />
-  </a>
+
+<!-- The block below controls the image viewer -->
+
   
-  <p class="image-caption">
-    Above: <a href="https://ansleyerickson.github.io/modern/tmsdoc/wright001.html" width="100%">The Modern School Graduation</a>
-  </p>
+
   
+        <div class='item-view w-100 mb-2' >
+          
+            <!-- Facets uses a modified version of peterthomet's flat toolbar icons 
+  <https://github.com/peterthomet/openseadragon-flat-toolbar-icons>. If you
+want to change the color, we recommend you use imagemagick mogrify. First, separate
+the lights from the darks. Then run a variation of the following command for each 
+folder using the two different colors you want: 
+
+$ mogrify -format png +level-colors "#882D60", *.png
+
+-->
+
+<div id="osd" class="image-viewer"></div>
+<script async defer src="https://ansleyerickson.github.io/modern/assets/js/openseadragon/openseadragon.min.js"></script>
+<script>
+  $(document).ready(function () {
+    var manifestUrl = "https://ansleyerickson.github.io/modern/img/derivatives/iiif/wright018/manifest.json";
+    $.getJSON(manifestUrl, function(data) {
+      var tileSources = [];
+      $.each(data.sequences[0].canvases, function(k, val) {
+        tileSources.push(val.images[0].resource.service['@id'] + '/info.json');
+      });
+      OpenSeadragon({
+        id: "osd",
+        sequenceMode: true,
+        prefixUrl: "https://ansleyerickson.github.io/modern/assets/js/openseadragon/images/",
+        tileSources: tileSources,
+        homeFillsViewer: false,
+        showReferenceStrip: true
+      });
+    });
+  });
+</script>
+
+          
+        </div>
+  
+
+  <div class="card-body item-metadata">
+
+<!-- The block below controls the item metadata table -->
+
+    <h1 alt="My Speech" class='item-label'>My Speech</h1>
+    <div class="row">
+      
+      
+        <dl class='metadata-block w-100'>
+  
+    
+
+<!-- Only display non-empty values -->
+    
+      
+        <dt>Title</dt>
+        <dd>My Speech</dd>
+    
+  
+    
+
+<!-- Only display non-empty values -->
+    
+      
+        <dt>Date</dt>
+        <dd>16-Jun-59</dd>
+    
+  
+    
+
+<!-- Only display non-empty values -->
+    
+      
+        <dt>Description</dt>
+        <dd>Cherilyn Wright's 6th grade graduation address, delivered to Mildred L. Johnson, students, and teachers about the importance of gaining knowledge and sharing it as the students graduate and grow up.</dd>
+    
+  
+    
+
+<!-- Only display non-empty values -->
+    
+      
+        <dt>Contributor</dt>
+        <dd>Liv Wright</dd>
+    
+  
+    
+
+<!-- Only display non-empty values -->
+    
+      
+        <dt>Tags</dt>
+        <dd>Ceremony, Graduation, Student Speech</dd>
+    
+  
+    
+
+<!-- Only display non-empty values -->
+    
+  
+    
+
+<!-- Only display non-empty values -->
+    
+      
+        <dt>Notes from TMS Community Members</dt>
+        <dd>Speech written out: My Speech/ Modern School/ Tuesday June 16, 1959/ Graduation/ Rose Room Auditorium/ Grade Six/ Ballroom/ Candle of Knowledge/ Mildred, parents, teachers, Grade 6- Thank you for intitiating us into the fraternity of knowledge on your level. We shall light this candle with the pride of learning and achieving- as we grow in this knowledge; it is our desire to share it with others, for the real essence of knowledge is having and apllying it to some good purpose. This we resolve to do, and we look forward three years from now, when we are being graduated. This we shall remmember, that It is not important to know (underlined) everything. However, it is important to know the value (underlined) of everything- to appreciate what we learn, and to apply- what we know. This symbol, this candle of knowledge shall ever be the talisman to light our way.</dd>
+    
+  
+</dl>
+
+      
+    </div>
+  </div>
 </div>
-
-<p>Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.</p>
-
-<p>Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.</p>
-
-<p>Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.</p>
-
-<div class="inline-image-reference">
-  <a href="https://ansleyerickson.github.io/modern/tmsdoc/wright001.html">
-    <img src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright001/full/1140,/0/default.jpg" alt="The Modern School Graduation" width="100%" />
-  </a>
-  
-  <p class="image-caption">
-    Above: <a href="https://ansleyerickson.github.io/modern/tmsdoc/wright001.html" width="100%">The Modern School Graduation</a>
-  </p>
-  
-</div>
-
-<p>Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.</p>
-
 
           </div>
         </div>

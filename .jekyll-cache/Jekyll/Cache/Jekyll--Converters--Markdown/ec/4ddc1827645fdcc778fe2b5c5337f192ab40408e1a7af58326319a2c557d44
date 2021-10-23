@@ -1,14 +1,26 @@
-I"Ë<div class="wax-parallax full-width container-fluid inline-parallax">
-  <div class="parallax-image" style="background-image: url('');
+I"A<div class="wax-parallax full-width container-fluid inline-parallax">
+  <div class="parallax-image" style="background-image: url('https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb007_0/full/1140,/0/default.jpg');
   background-position: 0% 50%;"></div>
+  
+  <div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://ansleyerickson.github.io/modern/tmsphoto/cb007.html">Annual class photograph, grade 5</a>
+    </div>
+  </div>
   
 </div>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 
 <div class="wax-parallax full-width container-fluid inline-parallax">
-  <div class="parallax-image" style="background-image: url('');
+  <div class="parallax-image" style="background-image: url('https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright001/full/1140,/0/default.jpg');
   background-position: 0% 50%;"></div>
+  
+  <div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://ansleyerickson.github.io/modern/tmsdoc/wright001.html">The Modern School Graduation</a>
+    </div>
+  </div>
   
 </div>
 
