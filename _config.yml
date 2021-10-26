@@ -34,6 +34,11 @@ collections:
       source: "tmsphoto.csv" # path to the metadata file within `_data`
     images:
       source: "raw_images/tmsphoto" # path to the directory of images within `_data`
+  tmsoh: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "tmsoh_item" # the layout for the pages to use
+    metadata:
+      source: "tmsoh.csv" # path to the metadata file within `_data`
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
 # --------------------------------------------------------------
@@ -63,7 +68,7 @@ search:
           - contributor
           - names
           - _tags
-          - description
+          - description  
       tmsoh:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
@@ -73,6 +78,8 @@ search:
           - interviewer
           - location
           - _tags
+          - names
+
 
 
 
