@@ -64,6 +64,17 @@ search:
           - names
           - _tags
           - description
+      tmsoh:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - _date
+          - description
+          - interviewer
+          - location
+          - _tags
+
+
 
 
 # --------------------------------------------------------------

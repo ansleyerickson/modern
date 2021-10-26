@@ -3,26 +3,25 @@ layout: page
 title: About
 permalink: /about/
 ---
-THE TEXT BELOW WILL BE REPLACED WITH WHAT WE WANT TO SAY ABOUT OUR PROJECT/TEAM
+{% include parallax_image.html collection='tmsdoc' pid='wright007' y='50%' %}
 
-## Credits
+### Credits
 
-_Facets_ is the team work of Angela Zoss and Alex Gil. During the lockdown, they met religiously for two hours every week. They finally met in real life once the project was almost complete. _Facets_ builds on the work of Marii Nyröp, and the cheerful encouragement of the Wax community which gathers on [a channel on the Code4Lib Slack](https://code4lib.slack.com/archives/C01DKQ44GE4).
+The Documenting the Modern School project, which led to this website, started with collaboration between Karen D. Taylor, Founder and Executive Director of [While We Are Still Here](https://whilewearestillhere.org/), and [Ansley T. Erickson, Associate Professor of History and Education Policy](https://tc.columbia.edu/faculty/ate11) and Co-Director of the [Harlem Education History Project](https://harlemeducationhistory.library.columbia.edu/) and the [Center on History and Education, Teachers College, Columbia University](https://www.tc.columbia.edu/che/). The project was supported by Tina Campt, then director of [Barnard College's Harlem Semester](https://africana.barnard.edu/harlem-semester), an action grant from [HumanitiesNY](https://humanitiesny.org/), and by the [Center on History and Education, Teachers College, Columbia University](https://www.tc.columbia.edu/che/).
 
-### Angela Zoss
+In 2017 and 2019, Teachers College graduate students took a research seminar with Erickson, studied Harlem's educational history, and learned to conduct oral history interviews at a multigenerational reunion and later gatherings. Interviewers included Yianella Blanco, Ansley Erickson, Kelsey Hanf, Joshua Heitkamp, Matthew Kautz, Dominique Lester, Laura Montanari, Irene Oujo, Shellina Shidnia, Samantha Reed, and Karen D. Taylor. Mike Tyner and Joel Vargas recorded video and sound. John Fleming, Esther Cyna, Damaris Dunn, Barry Goldenberg, Rachel Klepper, and Jean Park worked with Modern School alumni during the multigenerational reunion and later events to make digital copies of their personal collections related to the school.
 
-Angela is the [Assessment &amp; Data Visualization Analyst](https://library.duke.edu/about/directory/staff/angela.zoss) in the
-[Assessment &amp; User Experience Department](https://library.duke.edu/about/depts/assessment-user-experience) in the
-[Duke University Libraries](https://library.duke.edu/). She has many years of experience
-in teaching and training, predominantly focusing on teaching data visualization to
-university students, faculty, and staff. She is also active in several open
-source development projects, including [FOLIO](https://github.com/folio-org/) and
-[Wax](https://github.com/minicomp/wax).
+Modern School community members Cherilyn 'Liv' Wright, Deidre Flowers, Diana LaChatenere, and Melanie Edwards reviewed interview themes for the 2019 interviews and participated in formative discussion about this website. Modern School alumni participating in "tagging parties" to develop metadata for the items contained here: LIST
 
-### Alex Gil
+Working from their discussions, Khadijah Akeem, Nelson Luna, and Ansley Erickson developed tags for all items here, with guidance from [Archives for Black Lives](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf).
 
-Alex Gil is the Digital Scholarship Librarian at Columbia University, where he collaborates with faculty, students and library colleagues in humanities research, pedagogy and knowledge production that involves the use of advanced computation, digital media design, and network technologies. He is the lead coordinator for the [Butler Library Studio](https://studio.cul.columbia.edu/) at Columbia University Libraries, co-host of [Studio Remote](https://www.twitch.tv/culstudio), and co-founder of Columbia’s [Group for Experimental Methods in Humanistic Research](http://xpmethod.columbia.edu/).
+In draft form this website was reviewed and edited by [LIST]
+
+[LOGOS to come here]
+
 
 ### Wax
 
-[Wax](https://minicomp.github.io/wax/) is a minimal computing ([minicomp](https://github.com/minicomp)) framework for the creation of static web collections and exhibits led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. Wax depends on [Jekyll](https://jekyllrb.com), the static site generator, and a host of other open source libraries and frameworks including [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
+This website is built using [Wax](https://minicomp.github.io/wax/), a minimal computing ([minicomp](https://github.com/minicomp)) framework for the creation of static web collections and exhibits led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. This site uses the Facets theme for Wax. Facets was developed by [Alex Gil](https://github.com/elotroalex) and [Angela Zoss](https://library.duke.edu/about/directory/staff/angela.zoss).
+
+### Terms of Use
