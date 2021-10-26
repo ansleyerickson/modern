@@ -92,7 +92,7 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: "collections"
+  - label: "Collections"
     link: "/collection/"
   - label: "Essays"
     sub:

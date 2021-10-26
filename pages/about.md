@@ -22,7 +22,7 @@ In draft form this website was reviewed and edited by [LIST]
 
 ### Wax
 
-This website is built using [Wax](https://minicomp.github.io/wax/), a minimal computing ([minicomp](https://github.com/minicomp)) framework for the creation of static web collections and exhibits led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. This site uses the Facets theme for Wax. Facets was developed by [Alex Gil](https://github.com/elotroalex) and [Angela Zoss](https://library.duke.edu/about/directory/staff/angela.zoss).
+This website uses [Wax](https://minicomp.github.io/wax/), a minimal computing ([minicomp](https://github.com/minicomp)) framework for the creation of static web collections and exhibits led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. Ansley Erickson built the site, with extensive and patient help from Alex Gil. 
 
 {% include parallax_image.html collection='tmsdoc' pid='wright025' y='50%' %}
 
