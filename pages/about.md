@@ -35,13 +35,13 @@ This website uses [Wax](https://minicomp.github.io/wax/), a minimal computing ([
 Please site using the following templates:
 
 Documents
-Cherilyn 'Liv' Wright, "My Speech," June 16, 1969. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolhistory.org.
+Cherilyn 'Liv' Wright, "My Speech," June 16, 1969. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
 
 Photographs
-Annual class photograph, grade 5, 1970. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolhistory.org.
+Annual class photograph, grade 5, 1970. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
 
 Oral Histories
-Cami Bethea Oral History Interview, April 21, 2017. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolhistory.org.
+Cami Bethea Oral History Interview, April 21, 2017. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
 
 Essays
-Karen D. Taylor, "Essay Title Here," 2021. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolhistory.org.
+Karen D. Taylor, "Essay Title Here," 2021. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
