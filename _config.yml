@@ -68,7 +68,7 @@ search:
           - contributor
           - names
           - _tags
-          - description  
+          - description
       tmsoh:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
@@ -94,7 +94,7 @@ search:
 menu:
   - label: "Browse"
     link: "/collection/"
-  - label: "Exhibits"
+  - label: "Essays"
     sub:
       - label: "Flowers Essay"
         link: "/exhibits/flowers/"
