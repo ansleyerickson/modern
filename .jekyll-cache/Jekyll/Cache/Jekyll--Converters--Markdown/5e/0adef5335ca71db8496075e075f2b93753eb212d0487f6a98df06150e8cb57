@@ -1,4 +1,5 @@
-I"š
+I"š<p>Search based on keywords, names (first and/or last) or any other term of interest.</p>
+
 <div class="search-block">
   <div class="input-group">
     <input type="text" class="form-control" id="search" name="x" placeholder="Search... " />
@@ -20,7 +21,4 @@
   });
 </script>
 
-<p>List of keyword tags here</p>
-
-<p>List of names that appear in the collection here</p>
 :ET

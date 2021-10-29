@@ -13,11 +13,11 @@ The Modern School served Harlem children for over six decades. This site documen
 
 In the complex historical landscape of education for Black children in Harlem, the school on Sugar Hill stood out. Mildred Johnson, a Black woman educator in the 1930s when most public and private New York School leaders were white, founded The Modern School as an independent institution. Johnson declared the school’s progressive educational commitments when only a very few took this approach.
 
-Johnson, the daughter of composer J. Rosamund Johnson and the niece of writer James Weldon Johnson, was 20 years old when she embarked on her journey to educate the children of Harlem. In her senior year of study at the Ethical Culture School’s Teacher Training Department, she was required to student teach. However, private schools of that era refused to allow Black teachers to teach white students.
+Johnson, the daughter of composer J. Rosamond Johnson and the niece of writer James Weldon Johnson, was 20 years old when she embarked on her journey to educate the children of Harlem. In her senior year of study at the Ethical Culture School’s Teacher Training Department, she was required to student teach. However, private schools of that era refused to allow Black teachers to teach white students.
 
 In part out of necessity, she started The Modern School, in 1934 in the rectory of St. Philips Church on West 134th Street, with four four-year-olds from Harlem. Over the next six decades, The Modern School grew to serve hundreds of Black children, primarily from Harlem, but also from the Bronx and Queens. In some cases, multiple generations in the same family attended the school in its buildings on Sugar Hill.
 
-The institution engaged an innovative pedagogy and thrived despite fiscal challenges. The school developed over time, as Black thought, Black life, and the Harlem lanscape changed from the 1930s to the 1990s. This site documents and explores the meaning of one important site of autonomous Black education. It uses digital technology to fight the historic erasure of Black educational striving and accomplishment in Harlem. 
+The institution engaged an innovative pedagogy and thrived despite fiscal challenges. The school developed over time, as Black thought, Black life, and the Harlem lanscape changed from the 1930s to the 1990s. This site documents and explores the meaning of one important site of autonomous Black education. It uses digital technology to fight the historic erasure of Black educational striving and accomplishment in Harlem.
 
 ### Photographs and Documents
 
@@ -28,13 +28,8 @@ Members of The Modern School community contributed digital copies of school prog
 
 Former students, teachers, and parents contributed their recollections of their time at The Modern School and its impact on their lives.
 
-<iframe width="790" height="444" src="https://www.youtube.com/embed/e38Zfq8cvnE?start=956" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="790" height="444" src="https://www.youtube.com/embed/e38Zfq8cvnE?start=956" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-
-
-### Essays from Multiple Perspectives
-
-Members of the project team write about the process of doing this work and what it means to them.
 
 ### How We Did This Work
 
