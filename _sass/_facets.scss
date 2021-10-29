@@ -1,11 +1,11 @@
-/* 
-########    ###     ######  ######## ########  ######  
-##         ## ##   ##    ## ##          ##    ##    ## 
-##        ##   ##  ##       ##          ##    ##       
-######   ##     ## ##       ######      ##     ######  
-##       ######### ##       ##          ##          ## 
-##       ##     ## ##    ## ##          ##    ##    ## 
-##       ##     ##  ######  ########    ##     ######                                             
+/*
+########    ###     ######  ######## ########  ######
+##         ## ##   ##    ## ##          ##    ##    ##
+##        ##   ##  ##       ##          ##    ##
+######   ##     ## ##       ######      ##     ######
+##       ######### ##       ##          ##          ##
+##       ##     ## ##    ## ##          ##    ##    ##
+##       ##     ##  ######  ########    ##     ######
 */
 
 // Import Bootstrap
@@ -235,14 +235,14 @@ footer {
     background-color: $medium-background;
     padding: 1rem;
     a {
-      color: $light-background;
-      font-weight: 700;
+      color: $light-text;
+      font-weight: 400;
       text-decoration: none;
     }
 
     a:hover {
-      text-decoration: underline;
-      color: $dark-background;
+      text-decoration: none;
+      color: $light-link-hover;
     }
   }
 }
