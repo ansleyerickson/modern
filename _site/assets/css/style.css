@@ -2213,7 +2213,7 @@ h1, h2, h3, h4, h5, h6 { font-family: "Open Sans Light", "Verdana", "sans-serif"
 
 a { color: #033e6e; }
 
-a:hover { color: #fce9d9; text-decoration: none; }
+a:hover { color: #777777; text-decoration: none; }
 
 a.action-button { background-color: #033e6e; color: #f0f4ff; margin: 1rem; }
 
