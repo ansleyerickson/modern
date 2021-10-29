@@ -1,0 +1,25 @@
+---
+pid: tms01
+label: Cami Bethea Oral History Interview
+vimeoid: 583892162?h=a35d1f9a15&amp
+description: 'Cami Bethea discusses being a student at the modern school from 1964
+  to 1971 and how the experience shaped her life and education. '
+_date: '2017-04-21'
+rights: Permission granted, release form on file
+format: ".mp4"
+language: English
+type: 'Oral History '
+interviewer: 'Heitkamp, Joshua '
+narrator: Bethea, Cami
+source:
+location: 'Teachers College, Columbia University '
+transcript:
+original format:
+duration: '0:27:18'
+rate/frequency:
+date_added: '2019-02-19'
+_tags: "#REF!"
+order: '01'
+layout: tmsoh_item
+collection: tmsoh
+---
