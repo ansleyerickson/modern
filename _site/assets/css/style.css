@@ -2211,15 +2211,15 @@ main { min-height: calc(100vh - 120px); padding: 2rem; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Open Sans Light", "Verdana", "sans-serif"; }
 
-a { color: #296799; }
+a { color: #033e6e; }
 
-a:hover { color: #494c70; text-decoration: none; }
+a:hover { color: #fce9d9; text-decoration: none; }
 
-a.action-button { background-color: #296799; color: #f0f4ff; margin: 1rem; }
+a.action-button { background-color: #033e6e; color: #f0f4ff; margin: 1rem; }
 
 a.action-button:hover { background-color: #033e6e; color: #ffd1aa; }
 
-.banner { background-color: #033e6e; color: #494c70; padding: 10px 2rem; font-family: "Open Sans Light", "Verdana", "sans-serif"; font-size: 1.2rem; }
+.banner { background-color: #033e6e; color: #fce9d9; padding: 10px 2rem; font-family: "Open Sans Light", "Verdana", "sans-serif"; font-size: 1.2rem; }
 
 .navbar-brand { font-size: 1.4rem; }
 
@@ -2245,7 +2245,7 @@ a.action-button:hover { background-color: #033e6e; color: #ffd1aa; }
 
 .search-block #search { border-style: groove; border-width: 2px; }
 
-.search-block #search:focus { box-shadow: none; border-color: #296799; }
+.search-block #search:focus { box-shadow: none; border-color: #033e6e; }
 
 .search-block #results { margin: 0; }
 
@@ -2257,7 +2257,7 @@ a.action-button:hover { background-color: #033e6e; color: #ffd1aa; }
 
 .search-block #results .result a p { margin: 0 !important; padding: 0; }
 
-.search-block #results .result a p .title { color: #296799; }
+.search-block #results .result a p .title { color: #033e6e; }
 
 .search-block #results .result:hover { background-color: #d0e3f2; }
 
@@ -2279,7 +2279,7 @@ footer { height: 10vh; padding: 0.5rem; }
 
 .wax-parallax .parallax-image { background-color: #d0e3f2; width: 100%; height: 350px; max-height: 55vh; margin: 0; background-attachment: fixed; background-size: cover; }
 
-.wax-parallax .parallax-caption { margin: 0 auto; width: 100%; background-color: #296799; padding: 1rem; }
+.wax-parallax .parallax-caption { margin: 0 auto; width: 100%; background-color: #033e6e; padding: 1rem; }
 
 .wax-parallax .parallax-caption a { color: #d0e3f2; font-weight: 700; text-decoration: none; }
 

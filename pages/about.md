@@ -28,11 +28,13 @@ This website uses [Wax](https://minicomp.github.io/wax/), a minimal computing ([
 
 ### Terms of Use
 
-This website uses [Wax](https://minicomp.github.io/wax/), a minimal computing ([minicomp](https://github.com/minicomp)) framework for the creation of static web collections and exhibits led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. This site uses the Facets theme for Wax. Facets was developed by [Alex Gil](https://github.com/elotroalex) and [Angela Zoss](https://library.duke.edu/about/directory/staff/angela.zoss).
+[NEED TO DRAFT. KEY POINTS INCLUDE ONLY NON-COMMERCIAL USE, NO DOWNLOADING IMAGES OR VIDEO (this is blocked by a couple of features on the website but is also technically possible for more advanced computer people)
+
+Recognize that copyright and ownership of the items here stays with the people who created them - narrators of interviews, writers of documents, photographers. For permission to reproduce, to be granted for non-commercial use only, email harlemedhistory@tc.columbia.edu.]  
 
 ### How to Cite
 
-Please site using the following templates:
+Please cite using the following templates:
 
 Documents
 Cherilyn 'Liv' Wright, "My Speech," June 16, 1969. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
