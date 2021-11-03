@@ -41,13 +41,13 @@ collections:
       source: "tmsoh.csv" # path to the metadata file within `_data`
     images:
       source: "raw_images/tmsoh" # path to the directory of images within `_data`
-  tmsprocess: # name of collection
+  tmspro: # name of collection
     output: true # makes sure pages are output as html files
     layout: "tmsdoc_item" # the layout for the pages to use
     metadata:
-      source: "tmsprocess.csv" # path to the metadata file within `_data`
+      source: "tmspro.csv" # path to the metadata file within `_data`
     images:
-      source: "raw_images/tmsprocess" # path to the directory of images within `_data`
+      source: "raw_images/tmspro" # path to the directory of images within `_data`
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
 # --------------------------------------------------------------
@@ -88,7 +88,7 @@ search:
           - location
           - _tags
           - names
-      tmsprocess:
+      tmspro:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
         - label
