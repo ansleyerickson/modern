@@ -35,4 +35,4 @@ Former students, teachers, and parents contributed their recollections of their 
 
 Photographs, syllabi, and recorded events capture how Modern School community members, public historians, scholars, and students worked together to document The Modern School.
 
-{% include parallax_image.html collection='tmspro' pid='tmspro29' y='50%' %}
+{% include parallax_image.html collection='tmspro' pid='tmspro31' y='50%' %}
