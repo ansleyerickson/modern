@@ -11,7 +11,7 @@ The Documenting the Modern School project, which led to this website, started in
 
 In 2017 and 2019, Teachers College graduate students in a research seminar on Harlem's educational history learned to conduct oral history interviews at a multigenerational reunion organized by Karen D. Taylor, and at later gatherings. Interviewers included Yianella Blanco, Ansley Erickson, Kelsey Hanf, Joshua Heitkamp, Matthew Kautz, Dominique Lester, Laura Montanari, Irene Oujo, Shellina Shidnia, Samantha Reed, and Karen D. Taylor. [Mike Tyner](https://www.tfiny.org/filmmakers/detail/mike_tyner) and Joel Vargas recorded video and sound. Rachel Klepper edited interview files, Noël Um audited transcripts, and Khadijah Akeem organized and confirmed permissions. John Fleming, Esther Cyna, Damaris Dunn, Barry Goldenberg, Rachel Klepper, and Jean Park worked with Modern School alumni during the multigenerational reunion and later events to make digital copies of their personal collections related to the school.
 
-Modern School community members Cherilyn 'Liv' Wright, April Bowie, Deidre Flowers, Diana LaChatenere, and Melanie Edwards reviewed interview themes for the 2019 interviews and participated in formative discussion about this website. Modern School alumni participated in "tagging parties," organized by Khadijah Akeem and with facilitation from Deidre B. Flowers, to develop metadata for the items contained here. LIST OF PARTICIPANTS HERE 
+Modern School community members April Bowie, Melanie Edwards, Deidre B. Flowers, Diana Lachatenere, and Cherilyn 'Liv' Wright reviewed interview themes for the 2019 interviews and discussed plans and ideas for this website. Modern School alumni participated in "tagging parties," organized by Khadijah Akeem and with facilitation from Deidre B. Flowers, to develop metadata for the items contained here. Participants included Yvonne Daniel, Melanie Edwards, Diana Lachatanere, Robin Jones, Barbara North, Everard Rutledge, Daphne Skeeter, Olivia White, Cherilyn (Liv) Wright.  
 
 Working from their discussions, Khadijah Akeem, Nelson Luna, and Ansley Erickson developed tags for all items here, with guidance from [Archives for Black Lives](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf).
 
@@ -39,14 +39,14 @@ Recognize that copyright and ownership of the items here stays with the people w
 
 Please cite using the following templates:
 
-Documents<p>
+<p>Documents</p>
 Cherilyn 'Liv' Wright, "My Speech," June 16, 1969. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
 
-Photographs<p>
+<p>Photographs</p>
 Annual class photograph, grade 5, 1970. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
 
-Oral Histories<p>
+<p>Oral Histories</p>
 Cami Bethea Oral History Interview, April 21, 2017. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
 
-Essays<p>
+<p>Essays</p>
 Karen D. Taylor, "Essay Title Here," 2021. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
