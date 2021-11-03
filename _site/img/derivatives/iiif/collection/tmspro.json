@@ -1,0 +1,228 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/collection/tmspro.json",
+  "@type": "sc:Collection",
+  "label": "tmspro",
+  "manifests": [
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro18/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro18"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro24/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro24"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro30/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro30"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro31/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro31"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro25/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro25"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro19/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro19"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro39/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro39"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro33/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro33"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro27/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro27"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro26/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro26"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro32/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro32"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro43/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro43"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro44/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro44"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro36/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro36"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro22/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro22"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro23/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro23"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro45/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro45"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro21/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro21"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro35/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro35"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro42/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro42"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro09/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro09"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro08/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro08"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro34/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro34"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro20/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro20"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro41/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro41"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro05/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro05"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro11"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro10"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro04/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro04"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro40/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro40"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro12"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro06/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro06"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro07/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro07"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro13/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro13"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro38/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro38"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro17/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro17"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro03/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro03"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro02"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro16/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro16"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro14/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro14"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro28/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro28"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro29/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro29"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro15/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro15"
+    },
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro01/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tmspro01"
+    }
+  ]
+}

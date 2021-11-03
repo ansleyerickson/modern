@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/tmspro02/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "tmspro02",
+  "thumbnail": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro02/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/sequence/tmspro02.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/canvas/tmspro02.json",
+          "label": "front",
+          "width": 3600,
+          "height": 2400,
+          "thumbnail": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro02/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/annotation/tmspro02.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro02/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro02",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3600,
+                "height": 2400
+              },
+              "on": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/canvas/tmspro02.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro02/full/full/0/default.jpg",
+  "fullwidth": "https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro02/full/1140,/0/default.jpg"
+}
