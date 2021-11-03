@@ -1,108 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/modern/assets/css/style.css">
-
-  <!-- FAVICONS & APPS -->
-  <link rel="apple-touch-icon" sizes="57x57" href="/modern/assets/logo/apple-icon-57x57.png"/>
-  <link rel="apple-touch-icon" sizes="60x60" href="/modern/assets/logo/apple-icon-60x60.png"/>
-  <link rel="apple-touch-icon" sizes="72x72" href="/modern/assets/logo/apple-icon-72x72.png"/>
-  <link rel="apple-touch-icon" sizes="76x76" href="/modern/assets/logo/apple-icon-76x76.png"/>
-  <link rel="apple-touch-icon" sizes="114x114" href="/modern/assets/logo/apple-icon-114x114.png"/>
-  <link rel="apple-touch-icon" sizes="120x120" href="/modern/assets/logo/apple-icon-120x120.png"/>
-  <link rel="apple-touch-icon" sizes="144x144" href="/modern/assets/logo/apple-icon-144x144.png"/>
-  <link rel="apple-touch-icon" sizes="152x152" href="/modern/assets/logo/apple-icon-152x152.png"/>
-  <link rel="apple-touch-icon" sizes="180x180" href="/modern/assets/logo/apple-icon-180x180.png"/>
-  <link rel="shortcut icon" type="image/png" sizes="192x192"  href="/modern/assets/logo/android-icon-192x192.png"/>
-  <link rel="shortcut icon" type="image/png" sizes="32x32" href="/modern/assets/logo/favicon-32x32.png"/>
-  <link rel="shortcut icon" type="image/png" sizes="96x96" href="/modern/assets/logo/favicon-96x96.png"/>
-  <link rel="shortcut icon" type="image/png" sizes="16x16" href="/modern/assets/logo/favicon-16x16.png"/>
-  <link rel="manifest" href="/modern/assets/logo/manifest.json"/>
-  <meta name="msapplication-TileColor" content="#ffffff"/>
-  <meta name="msapplication-TileImage" content="/assets/logo/ms-icon-144x144.png"/>
-  <meta name="theme-color" content="#ffffff"/>
-
-  <!-- SCRIPTS -->
-  <script type='text/javascript' src='https://ansleyerickson.github.io/modern/assets/js/jquery-3.5.1.min.js'></script>
-  <script type='text/javascript' defer src='https://ansleyerickson.github.io/modern/assets/js/facets.js'></script>
-  <script type='text/javascript' defer src='https://ansleyerickson.github.io/modern/assets/js/bootstrap/bootstrap.min.js'></script>
-  <noscript><p>Please enable JavaScript in your browser.</p></noscript>
-</head>
-<body><header class="site-header">
-    <nav class="navbar navbar-expand-md banner">
-        <a class="title navbar-brand" rel="author" href="/modern/">The Modern School</a>
-        <span class="subtitle navbar-text">Independent Black Education in Harlem, 1934-1998</span>
-  <!-- Collapse button -->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent15"
-    aria-controls="navbarSupportedContent15" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon">&#9776;</span></button>
-
-  <!-- Collapsible content -->
-        <div class="collapse navbar-collapse" id="navbarSupportedContent15">
-                
-    <!-- Links -->
-            <ul class="navbar-nav ml-auto">
-            
-                
-                <li class='nav-item'>
-                    <a class='nav-link' href='https://ansleyerickson.github.io/modern/collection/'>Collections</a>
-                </li>
-                
-            
-                
-                <li class='nav-item dropdown'>
-                <a class='nav-link dropdown-toggle' href='#' id='wax-essays-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                Essays
-                </a>
-                <div class='dropdown-menu' aria-labelledby='wax-essays-dropdown'>
-                
-                <a class='dropdown-item' href='https://ansleyerickson.github.io/modern/exhibits/flowers/'>Flowers Essay</a>
-                
-                <a class='dropdown-item' href='https://ansleyerickson.github.io/modern/exhibits/luna/'>Luna Essay</a>
-                
-                <a class='dropdown-item' href='https://ansleyerickson.github.io/modern/exhibits/taylor/'>Taylor Essay</a>
-                
-                <a class='dropdown-item' href='https://ansleyerickson.github.io/modern/exhibits/erickson/'>Erickson Essay</a>
-                
-                </div>
-                </li>
-                
-            
-                
-                <li class='nav-item'>
-                    <a class='nav-link' href='https://ansleyerickson.github.io/modern/search/'>Search</a>
-                </li>
-                
-            
-                
-                <li class='nav-item'>
-                    <a class='nav-link' href='https://ansleyerickson.github.io/modern/about/'>About</a>
-                </li>
-                
-            
-                
-                <li class='nav-item'>
-                    <a class='nav-link' href='https://ansleyerickson.github.io/modern/more/'>More</a>
-                </li>
-                
-                            
-            </ul>
-        </div>
-    </nav>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="row">
-          <div class="col-lg-8 col-md-10 mx-auto">
-        <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">Browse the Collections</h1>
-  </header>
-
-  <div class="post-content">
-    <h3 id="photographs">Photographs</h3>
+I";H<h3 id="photographs">Photographs</h3>
 
 <!--
   If there are one or more facet_by field names, build a form at the top of the
@@ -150,7 +46,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb001/full/250,/0/default.jpg" alt="Photograph of a Christmas Festival at the Audobon Ballroom" />
             <div class="card-body">
@@ -167,7 +63,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb002/full/250,/0/default.jpg" alt="Photograph of ceremony at The Modern School" />
             <div class="card-body">
@@ -184,7 +80,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb003/full/250,/0/default.jpg" alt="Photograph of children during the Christmas Festival" />
             <div class="card-body">
@@ -201,7 +97,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb004/full/250,/0/default.jpg" alt="Photograph of class of young children performing on stage with teacher" />
             <div class="card-body">
@@ -218,7 +114,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb005/full/250,/0/default.jpg" alt="Photograph of end of Christmas performance" />
             <div class="card-body">
@@ -235,7 +131,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb006/full/250,/0/default.jpg" alt="Photograph of numerous student performers during a Christmas show" />
             <div class="card-body">
@@ -252,7 +148,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb007/full/250,/0/default.jpg" alt="Annual class photograph, grade 5" />
             <div class="card-body">
@@ -269,7 +165,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb008/full/250,/0/default.jpg" alt="Photograph of a graduation" />
             <div class="card-body">
@@ -286,7 +182,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb009/full/250,/0/default.jpg" alt="Photograph of Dolares WIlliams and five students" />
             <div class="card-body">
@@ -303,7 +199,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/cb010/full/250,/0/default.jpg" alt="Photograph of a girl at her desk in front of a mural" />
             <div class="card-body">
@@ -403,7 +299,7 @@
          
         
 
-        <div class="gallery-item-facets special-events col-xl-3 p-1">
+        <div class="gallery-item-facets special-events col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright001/full/250,/0/default.jpg" alt="The Modern School Graduation" />
             <div class="card-body">
@@ -420,7 +316,7 @@
          
         
 
-        <div class="gallery-item-facets special-events col-xl-3 p-1">
+        <div class="gallery-item-facets special-events col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright005/full/250,/0/default.jpg" alt="The Modern School Brochure" />
             <div class="card-body">
@@ -437,7 +333,7 @@
          
         
 
-        <div class="gallery-item-facets student-work col-xl-3 p-1">
+        <div class="gallery-item-facets student-work col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright018/full/250,/0/default.jpg" alt="My Speech" />
             <div class="card-body">
@@ -454,7 +350,7 @@
          
         
 
-        <div class="gallery-item-facets special-events col-xl-3 p-1">
+        <div class="gallery-item-facets special-events col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright019/full/250,/0/default.jpg" alt="The Modern School Graduation Invitation" />
             <div class="card-body">
@@ -471,7 +367,7 @@
          
         
 
-        <div class="gallery-item-facets school-documents col-xl-3 p-1">
+        <div class="gallery-item-facets school-documents col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright023/full/250,/0/default.jpg" alt="The Modern School Report Card" />
             <div class="card-body">
@@ -488,7 +384,7 @@
          
         
 
-        <div class="gallery-item-facets school-documents col-xl-3 p-1">
+        <div class="gallery-item-facets school-documents col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright025/full/250,/0/default.jpg" alt="The Modern School Report Card" />
             <div class="card-body">
@@ -505,7 +401,7 @@
          
         
 
-        <div class="gallery-item-facets school-documents col-xl-3 p-1">
+        <div class="gallery-item-facets school-documents col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright026_Wright030/full/250,/0/default.jpg" alt="The Modern Scribe February 1957" />
             <div class="card-body">
@@ -522,7 +418,7 @@
          
         
 
-        <div class="gallery-item-facets student-documents col-xl-3 p-1">
+        <div class="gallery-item-facets student-documents col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright031/full/250,/0/default.jpg" alt="Citywide Spelling Championship" />
             <div class="card-body">
@@ -539,7 +435,7 @@
          
         
 
-        <div class="gallery-item-facets school-documents col-xl-3 p-1">
+        <div class="gallery-item-facets school-documents col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright034/full/250,/0/default.jpg" alt="The Modern School report card [blank]" />
             <div class="card-body">
@@ -556,7 +452,7 @@
          
         
 
-        <div class="gallery-item-facets special-events col-xl-3 p-1">
+        <div class="gallery-item-facets special-events col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/wright20_wright020/full/250,/0/default.jpg" alt="The Modern School Graduation" />
             <div class="card-body">
@@ -641,7 +537,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms01/thumbnail.jpg" alt="Cami Bethea Oral History Interview" />
             <div class="card-body">
@@ -658,7 +554,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms02/thumbnail.jpg" alt="Daryl Sherman Oral History Interview " />
             <div class="card-body">
@@ -675,7 +571,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms03/thumbnail.jpg" alt="Jacquemar Fudge-Law Oral History Interview" />
             <div class="card-body">
@@ -692,7 +588,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms07/thumbnail.jpg" alt="Anna Webb Oral History Interview Part 2" />
             <div class="card-body">
@@ -709,7 +605,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms08/thumbnail.jpg" alt="Cary Webb Oral History Interview Part I" />
             <div class="card-body">
@@ -726,7 +622,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms09/thumbnail.jpg" alt="Cary Webb Oral History Interview Part 2" />
             <div class="card-body">
@@ -743,7 +639,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms11/thumbnail.jpg" alt="Patricia Hayes Oral History Interview Part 1  " />
             <div class="card-body">
@@ -760,7 +656,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms12/thumbnail.jpg" alt="Patricia Hayes Oral History Interview Part 2" />
             <div class="card-body">
@@ -777,7 +673,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms17/thumbnail.jpg" alt="Liv Wright Oral History Interview Part 3" />
             <div class="card-body">
@@ -794,7 +690,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms19/thumbnail.jpg" alt="Juanita Coleman-Merritt Oral History Interview " />
             <div class="card-body">
@@ -811,7 +707,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms20/thumbnail.jpg" alt="John McCracken Oral History Interview Part I" />
             <div class="card-body">
@@ -828,7 +724,7 @@
          
         
 
-        <div class="gallery-item-facets oral-history col-xl-3 p-1">
+        <div class="gallery-item-facets oral-history col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/simple/tms21/thumbnail.jpg" alt="Sheryl Sebastian Harrison Oral History Interview " />
             <div class="card-body">
@@ -933,7 +829,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro01/full/250,/0/default.jpg" alt="Photograph of participants at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -950,7 +846,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro02/full/250,/0/default.jpg" alt="Photograph of Karen Taylor (l) and Dan Perlstein (r) at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -967,7 +863,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro03/full/250,/0/default.jpg" alt="Photograph of Kristalynn Williams and fellow alumna at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -984,7 +880,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro04/full/250,/0/default.jpg" alt="Photograph of Teachers College students Alton McCall and Amanda Deering at Modern School multigenerational reunion " />
             <div class="card-body">
@@ -1001,7 +897,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro05/full/250,/0/default.jpg" alt="Photograph of Daryl Sherman (l) and Sheryl Harrison (r) in conversation at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1018,7 +914,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro06/full/250,/0/default.jpg" alt="Photograph of Bruce North (l), Juanita Coleman Merritt (c) and Victoria Horsford (r) on panel at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1035,7 +931,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro07/full/250,/0/default.jpg" alt="Photograph of Sheryl Harrison (l) and Daryl Sherman (r) at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1052,7 +948,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro08/full/250,/0/default.jpg" alt="Photograph of Ansley Erickson (standing) greeting participants at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1069,7 +965,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro09/full/250,/0/default.jpg" alt="Photograph of participants at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1086,7 +982,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro10/full/250,/0/default.jpg" alt="Photograph of [SINGER NAME] performing Lift Ev'ry Voice at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1103,7 +999,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro11/full/250,/0/default.jpg" alt="Photograph of [SINGER NAME] performing Lift Ev'ry Voice at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1120,7 +1016,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro12/full/250,/0/default.jpg" alt="Photograph of [SINGER NAME] performing Lift Ev'ry Voice at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1137,7 +1033,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro13/full/250,/0/default.jpg" alt="Photograph of [SINGER NAME] performing Lift Ev'ry Voice at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1154,7 +1050,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro14/full/250,/0/default.jpg" alt="Photograph of [SINGER NAME] performing Lift Ev'ry Voice at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1171,7 +1067,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro15/full/250,/0/default.jpg" alt="Photograph of Tina Campt greeting participants at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1188,7 +1084,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro16/full/250,/0/default.jpg" alt="Photograph of Tina Campt greeting participants at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1205,7 +1101,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro17/full/250,/0/default.jpg" alt="Photograph of Cherilyn (Liv) Wright speaking at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1222,7 +1118,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro18/full/250,/0/default.jpg" alt="Photograph of Melanie Edwards speaking on the panel at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1239,7 +1135,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro19/full/250,/0/default.jpg" alt="Photograph of Bruce North speaking on the panel at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1256,7 +1152,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro20/full/250,/0/default.jpg" alt="Photograph of participants at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1273,7 +1169,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro21/full/250,/0/default.jpg" alt="Photograph of participants at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1290,7 +1186,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro22/full/250,/0/default.jpg" alt="Photograph of Deidre B. Flowers speaking on the panel at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1307,7 +1203,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro23/full/250,/0/default.jpg" alt="Photograph of Deidre B. Flowers speaking on the panel at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1324,7 +1220,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro24/full/250,/0/default.jpg" alt="Photograph of Melanie Edwards speaking on the panel at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1341,7 +1237,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro25/full/250,/0/default.jpg" alt="Photograph of Juanita Coleman Merritt reading from her book on the panel at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1358,7 +1254,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro26/full/250,/0/default.jpg" alt="Photograph of panel discussion at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1375,7 +1271,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro27/full/250,/0/default.jpg" alt="Photograph of Daryl Sherman speaking at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1392,7 +1288,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro28/full/250,/0/default.jpg" alt="Photograph of Daryl Sherman speaking at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1409,7 +1305,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro29/full/250,/0/default.jpg" alt="Photograph of Traci McCracken speaking at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1426,7 +1322,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro30/full/250,/0/default.jpg" alt="Photograph of Dan Perlstein speaking at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1443,7 +1339,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro31/full/250,/0/default.jpg" alt="Photograph of participants at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1460,7 +1356,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro32/full/250,/0/default.jpg" alt="Photograph of Patricia Hayes in conversation at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1477,7 +1373,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro33/full/250,/0/default.jpg" alt="Photograph of participants at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1494,7 +1390,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro34/full/250,/0/default.jpg" alt="Photograph of Kristalynn Williams contributing archival items for scanning at Modern School multigenerational reunion" />
             <div class="card-body">
@@ -1511,7 +1407,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro35/full/250,/0/default.jpg" alt="Photograph of Teachers College student Esther Cyna presenting digital collection site to Modern School multigenerational reunion participant" />
             <div class="card-body">
@@ -1528,7 +1424,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro36/full/250,/0/default.jpg" alt="Photograph of Modern School alumna Shirley Ferguson Godfrey (l) sharing archival material with Teachers College students John Fleming (center) and Barry Goldenberg (right)" />
             <div class="card-body">
@@ -1545,7 +1441,7 @@
          
         
 
-        <div class="gallery-item-facets text col-xl-3 p-1">
+        <div class="gallery-item-facets text col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro38_0/full/250,/0/default.jpg" alt="Tagging Party Instructions" />
             <div class="card-body">
@@ -1562,7 +1458,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro39/full/250,/0/default.jpg" alt="Screenshot of tagging party with Modern School alumni" />
             <div class="card-body">
@@ -1579,7 +1475,7 @@
          
         
 
-        <div class="gallery-item-facets photograph col-xl-3 p-1">
+        <div class="gallery-item-facets photograph col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro40/full/250,/0/default.jpg" alt="Screenshot of tagging party with Modern School alumni" />
             <div class="card-body">
@@ -1596,7 +1492,7 @@
          
         
 
-        <div class="gallery-item-facets text col-xl-3 p-1">
+        <div class="gallery-item-facets text col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro41_0/full/250,/0/default.jpg" alt="Oral history interview themes" />
             <div class="card-body">
@@ -1613,7 +1509,7 @@
          
         
 
-        <div class="gallery-item-facets text col-xl-3 p-1">
+        <div class="gallery-item-facets text col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro42_0/full/250,/0/default.jpg" alt="Learning to the best of who you are" />
             <div class="card-body">
@@ -1630,7 +1526,7 @@
          
         
 
-        <div class="gallery-item-facets text col-xl-3 p-1">
+        <div class="gallery-item-facets text col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro43_00/full/250,/0/default.jpg" alt="Harlem Stories: Oral History and Digital Tools" />
             <div class="card-body">
@@ -1647,7 +1543,7 @@
          
         
 
-        <div class="gallery-item-facets text col-xl-3 p-1">
+        <div class="gallery-item-facets text col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro44_0/full/250,/0/default.jpg" alt="Definitions of Black Agency: The Legacy of Mildred Johnson Edwards" />
             <div class="card-body">
@@ -1664,7 +1560,7 @@
          
         
 
-        <div class="gallery-item-facets text col-xl-3 p-1">
+        <div class="gallery-item-facets text col-xl-2 p-1">
           <div class="card thumbnail-card">
             <img class="d-block card-img-top gallery-thumb w-100 mh-100" src="https://ansleyerickson.github.io/modern/img/derivatives/iiif/images/tmspro45_0/full/250,/0/default.jpg" alt="Education and Class in Harlem " />
             <div class="card-body">
@@ -1701,25 +1597,4 @@
   });
 </script>
 
-
-  </div>
-
-</article>
-
-          </div>
-        </div>
-      </div>
-    </main><footer class="banner text-center">
-  <div class="container p-2">
-    <div class="row">
-      <div class="col-lg-6">
-        <p><a href="https://ansleyerickson.github.io/modern/about" target="_blank">Terms of Use and How to Cite</a></p>
-      </div>
-      <div class="col-lg-6">
-        <span><small>Built with </small><a href="https://minicomp.github.io/wax/" target="_blank">Wax</a><small> and </small><a href="https://jekyllrb.com/" target="_blank">Jekyll</a><small>. Available on </small><a href="https://github.com/minicomp/wax-facets/">GitHub</a></span>
-      </div>
-    </div>
-  </div>
-</footer>
-</body>
-</html>
+:ET

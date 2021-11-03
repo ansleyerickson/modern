@@ -13,3 +13,6 @@ permalink: /collection/
 
 ### Oral Histories
 {% include facet_gallery.html collection='tmsoh' facet_by='type'  num_column=4 %}
+
+### How We Did This Work
+{% include facet_gallery.html collection='tmspro' facet_by='type'  num_column=4 %}
