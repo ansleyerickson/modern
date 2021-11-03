@@ -23,10 +23,6 @@ The project was supported by Tina Campt through [Barnard College's Harlem Semest
 
 [LOGOS to come here - WWASH, TC, HumanitiesNY, IUME]
 
-### Wax
-
-This website uses [Wax](https://minicomp.github.io/wax/), a minimal computing ([minicomp](https://github.com/minicomp)) framework for the creation of static web collections and exhibits led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. Ansley Erickson built the site, with extensive and patient help from Alex Gil.
-
 {% include parallax_image.html collection='tmsdoc' pid='wright025' y='50%' %}
 
 ### Terms of Use
@@ -50,3 +46,7 @@ Cami Bethea Oral History Interview, April 21, 2017. The Modern School: Independe
 
 <p>Essays</p>
 Karen D. Taylor, "Essay Title Here," 2021. The Modern School: Independent Black Education in Harlem, 1934-1998, www.modernschoolharlem.org.
+
+### This Website
+
+This website uses [Wax](https://minicomp.github.io/wax/), a minimal computing ([minicomp](https://github.com/minicomp)) framework for the creation of static web collections and exhibits led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. Ansley Erickson built the site, with extensive and patient help from Alex Gil.
