@@ -9,11 +9,11 @@ permalink: /collection/
 
 {% include facet_gallery.html collection='tmstest' facet_by='type'  num_column=4 %}
 
+{% comment %}
+
 ### Photographs
 
 {% include facet_gallery.html collection='tmsphoto' facet_by='type'  num_column=4 %}
-
-{% comment %}
 
 ### Documents
 
