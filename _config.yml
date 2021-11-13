@@ -3,8 +3,7 @@ subtitle: Independent Black Education in Harlem, 1934-1998
 author:
   name:
   email: harlemeducationhistory@tc.columbia.edu
-description:
-  Mildred L. Johnson and her colleagues led The Modern School, an independent Black school in Harlem, from 1934 to 1998. This site documents their work and the memories of members of The Modern School community.
+description: Mildred L. Johnson and her colleagues led The Modern School, an independent Black school in Harlem, from 1934 to 1998. This site documents their work and the memories of members of The Modern School community.
 url: https://ansleyerickson.github.io
 baseurl: "/modern"
 
@@ -48,6 +47,13 @@ collections:
       source: "tmspro.csv" # path to the metadata file within `_data`
     images:
       source: "raw_images/tmspro" # path to the directory of images within `_data`
+  tmstest: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "tmstest_item" # the layout for the pages to use
+    metadata:
+      source: "tmstest.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/tmstest" # path to the directory of images within `_data`
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
 # --------------------------------------------------------------
@@ -91,17 +97,13 @@ search:
       tmspro:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
-        - label
-        - _date
-        - contributor
-        - names
-        - _tags
-        - description
-        - names
-
-
-
-
+          - label
+          - _date
+          - contributor
+          - names
+          - _tags
+          - description
+          - names
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
